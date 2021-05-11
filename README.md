@@ -1,2 +1,1 @@
-# ysalpred
-salary prediction
+# Heroku-Demo
